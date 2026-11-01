@@ -1,7 +1,8 @@
-﻿let studentNameRu = "Илья Сучков"
+﻿// Реализация F# выполнена в отдельной feature-ветке
+let studentNameRu = "Илья Сучков"
 let studentNameEn = "Ilya Suchkov"
 let studentNumber = 21
-let groupName = "МЗО-119БВ-26"
+let groupName = "М3О-119БВ-26"
 let languageName = "F#"
 
 let controlValue = 304 * studentNumber
