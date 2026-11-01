@@ -9,7 +9,7 @@ int main() {
     const string student_name_ru = "Илья Сучков";
     const string student_name_en = "Ilya Suchkov";
     int student_number = 21;
-    const string group_name = "M30-1195B-26"; 
+    const string group_name = "МЗО-119БВ-26"; 
     const string language_name = "C++";
 
     int control_value = 304 * student_number;

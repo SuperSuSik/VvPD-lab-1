@@ -4,8 +4,7 @@ int main(void) {
     const char *student_name_ru = "Илья Сучков";
     const char *student_name_en = "Ilya Suchkov";
     int student_number = 21;
-    // ВНИМАНИЕ: проверь группу! Я пишу твою с экрана: "M30-1195B-26"
-    const char *group_name = "M30-1195B-26"; 
+    const char *group_name = "МЗО-119БВ-26"; 
     const char *language_name = "C";
 
     int control_value = 304 * student_number;
