@@ -1,0 +1,29 @@
+# C/C++
+*.o
+c/main
+cpp/main
+
+# Java
+*.class
+
+# .NET
+bin/
+obj/
+
+# Node/TypeScript
+node_modules/
+typescript/dist/
+
+# Rust
+rust/main
+target/
+
+# Python
+__pycache__/
+
+# Assembler
+asm/assembler
+asm/assembler.o
+
+# macOS
+.DS_Store
