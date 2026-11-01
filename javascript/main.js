@@ -1,7 +1,7 @@
 const student_name_ru = "Илья Сучков";
 const student_name_en = "Ilya Suchkov";
 const student_number = 21;
-const group_name = "МЗО-119БВ-26";
+const group_name = "М3О-119БВ-26";
 const language_name = "JavaScript";
 
 const control_value = 304 * student_number;

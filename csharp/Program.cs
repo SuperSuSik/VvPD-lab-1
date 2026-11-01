@@ -1,7 +1,7 @@
 ﻿var studentNameRu = "Илья Сучков";
 var studentNameEn = "Ilya Suchkov";
 var studentNumber = 21;
-var groupName = "МЗО-119БВ-26";
+var groupName = "М3О-119БВ-26";
 var languageName = "C#";
 
 var controlValue = 304 * studentNumber;

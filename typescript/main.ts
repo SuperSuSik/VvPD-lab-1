@@ -10,7 +10,7 @@ const student: Student = {
     nameRu: "Илья Сучков",
     nameEn: "Ilya Suchkov",
     number: 21,
-    group: "МЗО-119БВ-26",
+    group: "М3О-119БВ-26",
     language: "TypeScript"
 };
 

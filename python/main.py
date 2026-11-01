@@ -1,7 +1,7 @@
 student_name_ru = "Илья Сучков"
 student_name_en = "Ilya Suchkov"
 student_number = 21
-group_name = "МЗО-119БВ-26"
+group_name = "М3О-119БВ-26"
 language_name = "Python"
 
 control_value = 304 * student_number

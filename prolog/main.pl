@@ -1,4 +1,4 @@
-student('Илья Сучков', 'Ilya Suchkov', 21, 'МЗО-119БВ-26').
+student('Илья Сучков', 'Ilya Suchkov', 21, 'М3О-119БВ-26').
 
 control_value(N) :- student(_, _, N, _).
 

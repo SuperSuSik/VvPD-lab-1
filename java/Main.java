@@ -3,7 +3,7 @@ public class Main {
         String studentNameRu = "Илья Сучков";
         String studentNameEn = "Ilya Suchkov";
         int studentNumber = 21;
-        String groupName = "МЗО-119БВ-26";
+        String groupName = "М3О-119БВ-26";
         String languageName = "Java";
 
         int controlValue = 304 * studentNumber;

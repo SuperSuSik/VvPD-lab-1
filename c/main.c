@@ -4,7 +4,7 @@ int main(void) {
     const char *student_name_ru = "Илья Сучков";
     const char *student_name_en = "Ilya Suchkov";
     int student_number = 21;
-    const char *group_name = "МЗО-119БВ-26"; 
+    const char *group_name = "М3О-119БВ-26"; 
     const char *language_name = "C";
 
     int control_value = 304 * student_number;
