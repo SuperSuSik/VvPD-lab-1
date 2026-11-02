@@ -16,8 +16,8 @@ C, C++, Python, JavaScript, TypeScript, Java, C#, F#, Go, Rust, Bash, Prolog, As
 ## Пример ожидаемого вывода
 
 ```text
-Hello to 6384 from Ilya Suchkov, number 21, group М3О-119БВ-26!
-Привет, 6384! Это Илья Сучков, номер 21, группа М3О-119БВ-26!
+Hello to 304 from Ilya Suchkov, number 21, group М3О-119БВ-26!
+Привет, 304! Это Илья Сучков, номер 21, группа М3О-119БВ-26!
 Student ID: М3О-119БВ-26/21 | Language: C | Control: 6384
 ```
 

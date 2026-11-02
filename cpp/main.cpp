@@ -12,12 +12,13 @@ int main() {
     const string group_name = "М3О-119БВ-26"; 
     const string language_name = "C++";
 
-    int control_value = 304 * student_number;
+    const int base_value = 304;
+    int control_value = base_value * student_number;
 
-cout << "Hello to " << control_value << " from " << student_name_en
+cout << "Hello to " << base_value << " from " << student_name_en
               << ", number " << student_number
               << ", group " << group_name << "!\n";
-cout << "Привет, " << control_value << "! Это " << student_name_ru
+cout << "Привет, " << base_value << "! Это " << student_name_ru
               << ", номер " << student_number
               << ", группа " << group_name << "!\n";
 cout << "Student ID: " << group_name << "/"

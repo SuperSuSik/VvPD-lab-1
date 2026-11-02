@@ -1,6 +1,6 @@
 .section __TEXT,__cstring,cstring_literals
 message:
-    .asciz "Hello to 6384 from Ilya Suchkov, number 21, group M3O-119BV-26!"
+    .asciz "Hello to 304 from Ilya Suchkov, number 21, group M3O-119BV-26!"
 
 .section __TEXT,__text,regular,pure_instructions
 .globl _main
